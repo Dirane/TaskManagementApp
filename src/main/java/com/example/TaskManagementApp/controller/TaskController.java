@@ -3,6 +3,7 @@ package com.example.TaskManagementApp.controller;
 import com.example.TaskManagementApp.model.Task;
 import com.example.TaskManagementApp.service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
